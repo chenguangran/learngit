@@ -1,2 +1,19 @@
-git is a control system version
+git is a good control version
 git is free software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
